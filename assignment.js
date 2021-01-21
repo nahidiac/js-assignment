@@ -83,5 +83,3 @@ function megaFriend(friendNames)
         return friendNames[maxIndex]; 
     }
 }
-
-console.log(kilometerToMeter(-5)); 
